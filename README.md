@@ -1,1 +1,1 @@
-# njireader.github.io
+The official site for the New Jersey Incident Novel!
